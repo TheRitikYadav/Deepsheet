@@ -86,7 +86,7 @@ the same JSON when the job ends):
   "called": false,
   "expected_number": "+919876543210",
   "displayed_number": "+91 98765 4321",
-  "message": "dialed number +9198765 4321 does not match requested +919876543210; call NOT placed",
+  "message": "dialed number +91987654321 does not match requested +919876543210; call NOT placed",
   "steps": ["opened dialer keypad", "tapped 13 keys", "screen shows '+91 98765 4321'", "cleared wrong number"]
 }
 ```
